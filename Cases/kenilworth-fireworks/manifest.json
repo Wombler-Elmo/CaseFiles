@@ -1,10 +1,5 @@
 {
-  "id": "kenilworth-fireworks",
-  "name": "The Case of the Missing Fireworks",
-  "intro": "intro.json",
-  "screens": [
-    "KenilworthGameView.swift",
-    "KenilworthFirstPuzzleScreen.swift",
-    "KenilworthIntroView.swift"
-  ]
+  "caseID": "kenilworth-fireworks",
+  "version": 1,
+  "entryScreen": "KenilworthGameView"
 }
