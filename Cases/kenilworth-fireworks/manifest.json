@@ -1,5 +1,2 @@
-{
-  "caseID": "kenilworth-fireworks",
-  "version": 1,
-  "entryScreen": "KenilworthGameView"
-}
+{ "entryScreen": "PotatoCastleView" }
+
