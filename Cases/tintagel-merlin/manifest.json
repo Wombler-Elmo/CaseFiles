@@ -1,0 +1,26 @@
+{
+  "siteName": "Tintagel Castle",
+  "caseName": "The Case of Merlin\u2019s Underpants",
+  "caseID": "tintagel-merlin",
+  "description": "TBC",
+  "openingTimes": {
+    "Monday": "09:00\u201318:00",
+    "Wednesday": "09:00\u201318:00",
+    "Saturday": "09:00\u201318:00"
+  },
+  "completionTime": "1h 30m",
+  "historyPeriod": "Mythology",
+  "region": "South West",
+  "county": "Cornwall",
+  "examBoard": "N/A",
+  "brand": "English Heritage",
+  "isFree": false,
+  "productID": "com.escapeinthewild.Tintagel.Merlin",
+  "coordinate": {
+    "latitude": 50.6676,
+    "longitude": -4.7507
+  },
+  "imageName": "Tintagel_Icon_home",
+  "rating": 3,
+  "websiteURL": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/"
+}

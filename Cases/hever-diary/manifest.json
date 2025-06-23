@@ -1,0 +1,24 @@
+{
+  "siteName": "Hever Castle",
+  "caseName": "The Case of the Missing Diary",
+  "caseID": "hever-diary",
+  "description": "They found Thomas Wolsey\u2019s Diary, but Thomas Jr\u2019s is still missing! Can you solve the clues and help close this case?",
+  "openingTimes": {
+    "Everyday": "19:00\u201301:00"
+  },
+  "completionTime": "1h 45m",
+  "historyPeriod": "Modern",
+  "region": "South",
+  "county": "London",
+  "examBoard": "OCR",
+  "brand": "Private Owned",
+  "isFree": false,
+  "productID": "com.escapewild.hever.diary",
+  "coordinate": {
+    "latitude": 51.1867,
+    "longitude": 0.1134
+  },
+  "imageName": "Heaver_Icon_home",
+  "rating": 4,
+  "websiteURL": "https://www.hevercastle.co.uk/"
+}

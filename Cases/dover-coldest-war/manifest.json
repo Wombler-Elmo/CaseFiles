@@ -1,0 +1,25 @@
+{
+  "siteName": "Dover Castle",
+  "caseName": "The Case of the Coldest War",
+  "caseID": "dover-coldest-war",
+  "description": "TBC",
+  "openingTimes": {
+    "Saturday": "10:00\u201316:00",
+    "Sunday": "10:00\u201316:00"
+  },
+  "completionTime": "2h",
+  "historyPeriod": "WW1",
+  "region": "South East",
+  "county": "Hampshire",
+  "examBoard": "OCR",
+  "brand": "English Heritage",
+  "isFree": false,
+  "productID": "com.escapeinthewild.dover.coldest",
+  "coordinate": {
+    "latitude": 51.129,
+    "longitude": 1.3216
+  },
+  "imageName": "Dover_Home",
+  "rating": 1,
+  "websiteURL": "https://www.english-heritage.org.uk/visit/places/dover-castle/"
+}

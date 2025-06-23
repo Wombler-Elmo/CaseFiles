@@ -1,0 +1,26 @@
+{
+  "siteName": "Bradgate Park",
+  "caseName": "The Case of the Missing Head",
+  "caseID": "bradgate-head",
+  "description": "Find the missing head",
+  "openingTimes": {
+    "Monday": "09:00\u201318:00",
+    "Wednesday": "09:00\u201318:00",
+    "Saturday": "09:00\u201318:00"
+  },
+  "completionTime": "6h",
+  "historyPeriod": "Tudor",
+  "region": "East Midlands",
+  "county": "Leicestershire",
+  "examBoard": "AQA",
+  "brand": "Parks",
+  "isFree": false,
+  "productID": "com.escapeinthewild.bradget.head",
+  "coordinate": {
+    "latitude": 52.687,
+    "longitude": -1.2243
+  },
+  "imageName": "Bradgate_Icon_home",
+  "rating": 2,
+  "websiteURL": "https://www.bradgatepark.org/"
+}
