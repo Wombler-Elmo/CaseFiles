@@ -1,6 +1,6 @@
 {
   "type": "textEntry",
-  "prompt": "What is 2 + 2?",
-  "answer": "4",
+  "prompt": "What is 4 + 2?",
+  "answer": "6",
   "hints": ["It's the number of wheels on a small car."]
 }
