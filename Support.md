@@ -10,5 +10,5 @@ A: Tap “Restore Purchases” in My Account to unlock anything you’ve bought.
 Q: I need help!
 A: Email support@escapeoutdoors.co.uk
 
-Q: Who build this amazing app?
+Q: Who built this amazing app?
 A: The app was built by Warden and Tipple - The amazing artwork was done by Tipple
