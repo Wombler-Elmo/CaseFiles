@@ -20,7 +20,7 @@ Q: I’ve paid but the game won’t start!
 A: Tap Restore Purchases in My Account to re-unlock anything you’ve bought.
 
 Q: I need help!
-A: Email support@escapeoutdoors.co.uk
+A: Email support@chronoquestcases.co.uk
 
 Q: Do you have a printed version of this?
 A: Yes! We have leaflet style versions of all our cases. 
